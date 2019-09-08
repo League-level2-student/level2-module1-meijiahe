@@ -36,7 +36,7 @@ void gui() {
 	@Override
 	public void actionPerformed(ActionEvent e) {
 		// TODO Auto-generated method stub
-		if (e.getSource()==button1) {
+		if (e.getSource()==button1) {//cc//
 			String answer=JOptionPane.showInputDialog(null,"Enter a name");
 		}
 	}
